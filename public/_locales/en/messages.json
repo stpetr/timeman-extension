@@ -1,0 +1,25 @@
+{
+  "extName": {
+    "message": "TimeManager React",
+    "description": "Extension name"
+  },
+  "extDescr": {
+    "message": "The tool helps you to be less lazy. At least it tries",
+    "description": "Extension description"
+  },
+
+  "nowI": {
+    "message": "Now I ",
+    "description": "Current activity caption"
+  },
+
+  "action_logBtnCaption": {
+    "message": "Save ",
+    "description": "Caption of the log button"
+  },
+
+  "action_activityBegan": {
+    "message": "began at ",
+    "description": "An aux caption over activities list"
+  }
+}

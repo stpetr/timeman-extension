@@ -1,0 +1,25 @@
+{
+  "extName": {
+    "message": "TimeManager React",
+    "description": "Название расширения"
+  },
+  "extDescr": {
+    "message": "Расширение помогает бороться с собственной ленью",
+    "description": "Описание расширения"
+  },
+
+  "nowI": {
+    "message": "Сейчас я",
+    "description": "Подпись слева от текущей активности"
+  },
+
+  "action_logBtnCaption": {
+    "message": "Кончить",
+    "description": "Подпись на кнопке"
+  },
+
+  "action_activityBegan": {
+    "message": "начал в ",
+    "description": "Подпись слева от списка активностей"
+  }
+}
