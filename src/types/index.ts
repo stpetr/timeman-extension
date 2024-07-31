@@ -1,5 +1,11 @@
+export type Category = {
+  id: string
+  name: string
+}
+
 export type Activity = {
   id: string
+  categoryId?: string
   name: string
 }
 
